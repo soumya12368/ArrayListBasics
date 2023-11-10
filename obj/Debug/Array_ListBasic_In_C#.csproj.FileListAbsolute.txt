@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\Array_ListBasic_In_C#\Array_ListBasic_In_C#\bin\Debug\Array_ListBasic_In_C#.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\Array_ListBasic_In_C#\Array_ListBasic_In_C#\bin\Debug\Array_ListBasic_In_C#.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\Array_ListBasic_In_C#\Array_ListBasic_In_C#\bin\Debug\Array_ListBasic_In_C#.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\Array_ListBasic_In_C#\Array_ListBasic_In_C#\obj\Debug\Array_ListBasic_In_C#.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\Array_ListBasic_In_C#\Array_ListBasic_In_C#\obj\Debug\Array_ListBasic_In_C#.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\Array_ListBasic_In_C#\Array_ListBasic_In_C#\obj\Debug\Array_ListBasic_In_C#.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\Array_ListBasic_In_C#\Array_ListBasic_In_C#\obj\Debug\Array_ListBasic_In_C#.pdb
